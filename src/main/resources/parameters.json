@@ -1,0 +1,6 @@
+{
+  "iterations": 20,
+  "xDimension": 5,
+  "yDimension": 5,
+  "seeds": ["1,2", "0,1", "2,0","2,1", "2,1", "2,2"]
+}
